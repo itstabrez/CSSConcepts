@@ -5,7 +5,7 @@ body {
     background: url('bg2.jpg');
     background-repeat: no-repeat;
     color: rgb(255, 255, 255);
-    background-size: 100%;
+    background-position: center;
 }
 
 .left {
